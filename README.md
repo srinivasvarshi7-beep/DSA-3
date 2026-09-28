@@ -1,7 +1,7 @@
 # Matrix Chain Multiplication Optimization Using Dynamic Programming 
 
 
-### Matrix Chain Multiplication is a fundamental optimization problem in Data 
+Matrix Chain Multiplication is a fundamental optimization problem in Data 
 Structures and Algorithms that focuses on finding the most efficient order for 
 multiplying a sequence of matrices. Although the final result remains the same 
 regardless of the order of multiplication, different parenthesizations can require 
